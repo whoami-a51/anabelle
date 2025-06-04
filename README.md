@@ -1,6 +1,7 @@
 🚫 Aviso Legal
 
 Este material é disponibilizado exclusivamente para fins educacionais e de pesquisa em segurança cibernética. O uso indevido pode configurar crime previsto em lei.
+NÃO FAÇA O DOWNLOAD E EXECUTE EM SEU COMPUTADOR PESSOAL.
 
 🛡️ Ransomware Anabelle – Análise Resumida
 
