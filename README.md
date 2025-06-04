@@ -13,17 +13,17 @@ Anabelle é um ransomware criado com fins maliciosos, mas com forte caráter de 
 - Propagação: Tenta se espalhar por dispositivos USB automaticamente.
 - Serviços: Finaliza processos críticos como o Gerenciador de Tarefas, CMD, Regedit, etc.
 
- • Sabotagem:
+  Sabotagem:
    -   Desativa o Firewall e Windows Defender
    -   Reinstala softwares de segurança
 
- • Controle Remoto: Se conecta a um servidor C2 (Command & Control) para receber comandos.
+  Controle Remoto: Se conecta a um servidor C2 (Command & Control) para receber comandos.
  
- • Modificações no sistema:
+  Modificações no sistema:
    - Altera o papel de parede
    - Desativa funcionalidades do Windows
  
- • Curiosidade: Contém uma mensagem dizendo que o objetivo é mostrar como os antivírus são ineficientes.
+  Curiosidade: Contém uma mensagem dizendo que o objetivo é mostrar como os antivírus são ineficientes.
 
 ⚠️ Observação
 
