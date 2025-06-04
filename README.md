@@ -3,12 +3,11 @@
 Este material é disponibilizado exclusivamente para fins educacionais e de pesquisa em segurança cibernética. O uso indevido pode configurar crime previsto em lei.
 ``` NÃO FAÇA O DOWNLOAD E EXECUTE EM SEU COMPUTADOR PESSOAL. ```  
 
-![descrição](/anabelle.jpg)  
-
-
 🛡️ Ransomware Anabelle – Análise Resumida
 
-Anabelle é um ransomware criado com fins maliciosos, mas com forte caráter de prova de conceito (PoC). Ele ficou conhecido por combinar técnicas de criptografia, controle de dispositivos e sabotagem de sistemas Windows.
+Anabelle é um ransomware criado com fins maliciosos, mas com forte caráter de prova de conceito (PoC). Ele ficou conhecido por combinar técnicas de criptografia, controle de dispositivos e sabotagem de sistemas Windows.  
+
+![descrição](/anabelle.jpg)  
 
 🔍 Principais Características
 - Linguagem: Desenvolvido em C#
