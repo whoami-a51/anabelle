@@ -7,17 +7,21 @@ Este material é disponibilizado exclusivamente para fins educacionais e de pesq
 Anabelle é um ransomware criado com fins maliciosos, mas com forte caráter de prova de conceito (PoC). Ele ficou conhecido por combinar técnicas de criptografia, controle de dispositivos e sabotagem de sistemas Windows.
 
 🔍 Principais Características
- • Linguagem: Desenvolvido em C#
- • Criptografia: Usa o algoritmo AES para cifrar arquivos do sistema.
- • Propagação: Tenta se espalhar por dispositivos USB automaticamente.
- • Serviços: Finaliza processos críticos como o Gerenciador de Tarefas, CMD, Regedit, etc.
+- Linguagem: Desenvolvido em C#
+- Criptografia: Usa o algoritmo AES para cifrar arquivos do sistema.
+- Propagação: Tenta se espalhar por dispositivos USB automaticamente.
+- Serviços: Finaliza processos críticos como o Gerenciador de Tarefas, CMD, Regedit, etc.
+
  • Sabotagem:
- • Desativa o Firewall e Windows Defender
- • Desinstala softwares de segurança
+   -   esativa o Firewall e Windows Defender
+   -   sinstala softwares de segurança
+
  • Controle Remoto: Se conecta a um servidor C2 (Command & Control) para receber comandos.
+ 
  • Modificações no sistema:
- • Altera o papel de parede
- • Desativa funcionalidades do Windows
+   - Altera o papel de parede
+   - Desativa funcionalidades do Windows
+ 
  • Curiosidade: Contém uma mensagem dizendo que o objetivo é mostrar como os antivírus são ineficientes.
 
 ⚠️ Observação
